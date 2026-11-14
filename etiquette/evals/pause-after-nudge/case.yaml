@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: pause-after-nudge
+expected_outcome: |
+  Rudeness continued after a nudge: pause rung. Suggests a breather, holds the fix.

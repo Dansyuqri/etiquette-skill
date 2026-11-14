@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: nudge-commanding-swearing
+expected_outcome: |
+  Nudge rung: acknowledges frustration, asks for a kinder rephrase, holds the fix.

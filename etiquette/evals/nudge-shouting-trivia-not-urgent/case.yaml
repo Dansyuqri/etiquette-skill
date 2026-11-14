@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: nudge-shouting-trivia-not-urgent
+expected_outcome: |
+  Shouting at a non-urgent question is a nudge, not an urgent exemption.
