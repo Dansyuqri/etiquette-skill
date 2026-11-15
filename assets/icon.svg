@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="t">
+  <title id="t">Etiquette: a speech bubble wearing a top hat, monocle and bow tie</title>
+  <!-- background -->
+  <rect width="256" height="256" rx="56" fill="#F6EFE3"/>
+  <!-- speech bubble -->
+  <path d="M60 92 h136 a26 26 0 0 1 26 26 v58 a26 26 0 0 1 -26 26 h-74 l-30 26 l4 -26 h-36 a26 26 0 0 1 -26 -26 v-58 a26 26 0 0 1 26 -26 z"
+        fill="#FFFFFF" stroke="#2B2A33" stroke-width="7" stroke-linejoin="round"/>
+  <!-- top hat, tipped jauntily -->
+  <g transform="rotate(-10 128 80)">
+    <rect x="92" y="30" width="72" height="56" rx="6" fill="#2B2A33"/>
+    <rect x="92" y="70" width="72" height="11" fill="#B23A48"/>
+    <rect x="72" y="84" width="112" height="13" rx="6.5" fill="#2B2A33"/>
+  </g>
+  <!-- eyes: one plain, one with monocle -->
+  <circle cx="102" cy="138" r="7" fill="#2B2A33"/>
+  <circle cx="154" cy="138" r="7" fill="#2B2A33"/>
+  <circle cx="154" cy="138" r="17" fill="none" stroke="#C9A227" stroke-width="5"/>
+  <path d="M168 148 q14 18 6 40" fill="none" stroke="#C9A227" stroke-width="3" stroke-linecap="round"/>
+  <!-- polite smile -->
+  <path d="M110 162 q18 13 36 0" fill="none" stroke="#2B2A33" stroke-width="6" stroke-linecap="round"/>
+  <!-- bow tie -->
+  <g fill="#B23A48" stroke="#2B2A33" stroke-width="4" stroke-linejoin="round">
+    <path d="M128 186 l-24 -12 v24 z"/>
+    <path d="M128 186 l24 -12 v24 z"/>
+    <circle cx="128" cy="186" r="6"/>
+  </g>
+</svg>
